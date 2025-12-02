@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cooding
 - 🌱 I’m currently learning Pythone
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 abbino/abbino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
